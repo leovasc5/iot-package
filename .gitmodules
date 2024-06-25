@@ -7,3 +7,6 @@
 [submodule "x-analyzer"]
 	path = x-analyzer
 	url = https://github.com/leovasc5/x-analyzer.git
+[submodule "x-sentinel"]
+	path = x-sentinel
+	url = https://github.com/leovasc5/x-sentinel.git
