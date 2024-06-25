@@ -1,3 +1,6 @@
 [submodule "iot-simulator"]
 	path = iot-simulator
 	url = https://github.com/leovasc5/iot-simulator.git
+[submodule "night-shift"]
+	path = night-shift
+	url = https://github.com/leovasc5/night-shift.git
