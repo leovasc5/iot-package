@@ -4,3 +4,6 @@
 [submodule "night-shift"]
 	path = night-shift
 	url = https://github.com/leovasc5/night-shift.git
+[submodule "x-analyzer"]
+	path = x-analyzer
+	url = https://github.com/leovasc5/x-analyzer.git
